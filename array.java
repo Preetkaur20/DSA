@@ -11,3 +11,14 @@ public class array {
         }
     }
 }
+
+//Displayinh by for-each loop
+public class array {
+    public static void main(String[] args) {
+        int[] marks = { 1, 2, 3, 4, 5 };
+        for (int i : marks) {
+            System.out.println(i);
+
+        }
+    }
+}
