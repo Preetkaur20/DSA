@@ -1,3 +1,9 @@
+//The stack is a linear data structure that is used to store the collection of objects. It is based on Last-In-First-Out (LIFO).
+// the two most important operations that are push and pop.
+// top is the top of the stack 
+// top = -1 the stack is empty, top = n-1 the stack is full, top = 0 ths stack has only one element, top = n stack is overflow
+// It has some methods 1 .empty(), 2 .push(), 3 .pop(), 4 .size(), 5 .search()
+
 import java.util.Stack;
 
 public class stack {
